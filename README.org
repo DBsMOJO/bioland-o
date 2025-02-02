@@ -109,7 +109,7 @@ Sortiment und moderne Online-Bestellung.
 
 *** Zeitplan
 
-| **Meilensteine**                      | **Zeitraum**            | **Beschreibung**                                                            |
+| *Meilensteine*                        | *Zeitraum*              | *Beschreibung*                                                              |
 |---------------------------------------+-------------------------+-----------------------------------------------------------------------------|
 | Anforderungsanalyse u. Marktforschung | Februar 2025            | Erfassen der Marktanforderungen und Gespräche mit Lieferdiensten und Bauern |
 | Konzeptentwicklung u. Design          | März 2025               | Entwicklung des Plattformdesigns und Erstellung erster Prototypen           |
@@ -118,7 +118,7 @@ Sortiment und moderne Online-Bestellung.
 
 ** Ressourcen
 *** Personal
-| **Bereich**                   | **Anzahl Personen** | **Aufgabenbeschreibung                    |
+| *Bereich*                     | *Anzahl Personen*   | *Aufgabenbeschreibung*                    |
 |-------------------------------+---------------------+-------------------------------------------|
 | Web-Entwicklung u- App-Design |                   2 | Entwicklung und Wartung der Plattform     |
 | Programmierer u. IT-Support   |                   2 | Technische Umsetzung und Systembetreuung  |
