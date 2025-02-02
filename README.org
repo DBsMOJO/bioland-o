@@ -1,0 +1,146 @@
+* Bioland'o
+** Einleitung
+Wir sind ein motiviertes Team bestehend aus zwei bodenständigen Männern:
+
+- *Daniel Binder*
+- *Max Daurer*
+
+Unsere Wurzeln liegen in einer landwirtschaftlich geprägten Region,
+eingebettet in die Vororte größerer Städte. Wir sind eng mit dem Land
+verbunden, schätzen moderne technologische Möglichkeiten und setzen uns
+dafür ein, unserer Region und den Menschen darin einen Mehrwert zu
+bieten.
+
+** Ausgangssituation
+*** Regionale Produkte im Fokus
+"Um's Eck schmeckt's am besten" -- dieser Gedanke begleitet uns. Frische
+Tomaten, Kartoffeln oder Salat direkt vom Nachbarfeld auf den eigenen
+Tisch zu bringen, sehen wir als Zukunftsvision.
+
+*** Aktuelle Situation und Potenziale
+Viele Konsumenten wünschen sich mehr regionale Produkte, doch im
+Supermarkt finden sich diese oft nur in einer kleinen "Regional-Ecke".
+Heimische Supermärkte setzen auf günstige Importprodukte, anstatt
+regionale Qualität zu fördern. Dadurch werden heimische Bauern nicht
+ausreichend unterstützt, obwohl die Nachfrage nach regionalen
+Erzeugnissen vorhanden ist.
+
+Dennoch ist der direkte Kauf beim Bauern mühsam, und nicht jeder hat
+Zugang zu einem Wochenmarkt. Gleichzeitig wird der bequeme
+Online-Supermarkt immer populärer.
+
+Vor diesen Herausforderungen steht das regionale Warensortiment. Es
+bedarf einer Lösung, die die vorhandenen Ressourcen optimal nutzt und
+die Waren neu am Markt positioniert. Eine Lösung, die nicht nur den
+Zugang zu regionalen Produkten erleichtert, sondern auch bestehende
+Strukturen stärkt und nachhaltig weiterentwickelt. Eine starke regionale
+Wirtschaft sichert nicht nur Qualität und Nachhaltigkeit, sondern macht
+uns auch unabhängiger von globalen Lieferketten. Gerade die letzten
+Jahre haben gezeigt, wie essenziell eine krisenfeste Versorgung für
+unsere Gesellschaft ist.
+
+** Bioland'o: Regional. Modern. Günstig.
+Wir erfinden das Rad nicht neu -- wir nutzen, was bereits da ist, und
+machen es besser. Unser Ziel ist es, Kunden, Bauern und
+landwirtschaftliche Genossenschaften effektiv miteinander zu verbinden.
+
+*** Unsere Idee
+Wir bieten den Kunden ein modernes Einkaufserlebnis:
+
+- *Unkompliziert bestellen* -- über eine intuitive App
+- *Frische, regionale Produkte* -- aus einem umfangreichen Sortiment
+- *Bequeme Lieferung* -- direkt nach Hause
+
+Ob frisches Gemüse, Früchte, Eier aus der Region oder Produkte aus dem
+Bioladen -- Kunden können sich individuell ihren Einkaufskorb
+zusammenstellen und den passenden Lieferzeitpunkt wählen.
+
+*** Vorteile für Landwirte und Investoren
+- Höhere Sichtbarkeit und mehr Kunden
+- Direkter Vertrieb ohne zusätzlichen Aufwand
+- Nutzung bestehender regionaler Lieferdienste
+- Skalierbares Modell mit Franchise-Ansatz, ideal für Investoren
+
+*** Unser Konzept
+Die Bioland'o-App bildet das Herzstück des Konzepts, indem sie Bauern,
+Lieferdienste und Kunden effizient miteinander vernetzt. Der
+Lieferdienst übernimmt die Logistik im Franchise-Modell, wodurch
+Investoren eine nachhaltige und wachstumsfähige Geschäftsstruktur
+vorfinden. Dies minimiert das wirtschaftliche Risiko und ermöglicht eine
+skalierbare Expansion in weitere Regionen.
+
+** Marktpräsenz & Marketing
+Wir setzen auf bewährte Marketingstrategien, um Bioland'o in der Region
+zu etablieren:
+
+- *Unterstützung durch Gemeinde- und Regionalzeitungen*
+- *Soziale Medien & Facebook*
+- *Präsenz an lokalen Bauernmärkten*
+- *Werbepartnerschaften mit Bioläden*
+- *Mundpropaganda & gezielte Partnerschaften*
+
+** Planung & Umsetzung
+*** Marktforschung
+Der Wunsch nach regionalen Produkten ist deutlich vorhanden, und viele
+Konsumenten suchen nach Möglichkeiten, diese einfacher zu beziehen.
+Gespräche mit genossenschaftlichen Lieferdiensten zeigen großes
+Interesse an neuen Vertriebswegen. Landwirte erhalten oft nur einen
+Bruchteil des Endpreises für ihre Produkte, und eine zusätzliche
+Absatzmöglichkeit über Bioland'o könnte ihnen wirtschaftlich
+zugutekommen. Unser Konzept trifft daher nicht nur auf Kundennachfrage,
+sondern bietet auch Landwirten eine faire Möglichkeit, ihre Produkte
+gewinnbringender zu verkaufen.
+
+*** Wettbewerb
+Unser Konzept ist einzigartig in der Region. Konkurrenz gibt es primär
+durch:
+
+- *Biohof.at Biokiste*, die jedoch nur eigene Produkte vertreibt
+- *Supermarkt-Lieferdienste*, die ein geringeres Angebot an regionalen
+  Produkten haben
+
+Bioland'o verbindet die Stärken beider Welten: breites regionales
+Sortiment und moderne Online-Bestellung.
+
+*** Projektinitiierung
+- *Gewinnung von Lieferdiensten* zur effizienten Distribution
+- *Aufbau der digitalen Plattform* (Website & App)
+- *Kooperationen mit Bauern und Erzeugern*
+
+*** Zeitplan
+
+| **Meilensteine**                      | **Zeitraum**            | **Beschreibung**                                                            |
+|---------------------------------------+-------------------------+-----------------------------------------------------------------------------|
+| Anforderungsanalyse u. Marktforschung | Februar 2025            | Erfassen der Marktanforderungen und Gespräche mit Lieferdiensten und Bauern |
+| Konzeptentwicklung u. Design          | März 2025               | Entwicklung des Plattformdesigns und Erstellung erster Prototypen           |
+| Technische Umsetzung u. Testphase     | Juni 2025               | Einführung der Plattform in einer ausgewählten Region                       |
+| Erweiterung u. Skalierung             | Juli bis September 2025 | Auseitung auf weitere Regionen und Optimierung des Betriebs                 |
+
+** Ressourcen
+*** Personal
+| **Bereich**                   | **Anzahl Personen** | **Aufgabenbeschreibung                    |
+|-------------------------------+---------------------+-------------------------------------------|
+| Web-Entwicklung u- App-Design |                   2 | Entwicklung und Wartung der Plattform     |
+| Programmierer u. IT-Support   |                   2 | Technische Umsetzung und Systembetreuung  |
+| Verwaltung u. Buchhaltung     |                   1 | Finanzen, rechtliche Angelegenheiten      |
+| Logistik und Vertrieb         |                   2 | Koordination der Lieferketten und Partner |
+| Marketing und Kundenservice   |                   1 | Werbung, Kommunikation mit Kunden         |
+
+*** Finanzierung
+- Regionale und digitale Förderungen (zB.
+  [[https://www.aws.at/aws-digitalisierung/][aws Digitalisierung]],
+  [[https://www.zukunftsraumland.at/leader][LEADER-Förderung für
+  regionale Entwicklung]])
+- Beteiligung von Lieferdiensten
+- Private Investoren
+
+** Chancen & Risiken
+*** Chancen
+- Erweiterung auf neue Regionen
+- Lieferung an Gastronomen
+- Werbepartnerschaften
+- Automaten für regionale Produkte
+
+*** Risiken
+- Fehlendes Angebot durch unzureichende Bauernbeteiligung
+- Zu wenige Kunden für eine rentable Umsetzung
