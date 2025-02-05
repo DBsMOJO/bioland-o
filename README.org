@@ -1,15 +1,13 @@
 * Bioland'o
+
 ** Einleitung
+
 Wir sind ein motiviertes Team bestehend aus zwei bodenständigen Männern:
 
 - *Daniel Binder*
 - *Markus Daurer*
 
-Unsere Wurzeln liegen in einer landwirtschaftlich geprägten Region,
-eingebettet in die Vororte größerer Städte. Wir sind eng mit dem Land
-verbunden, schätzen moderne technologische Möglichkeiten und setzen uns
-dafür ein, unserer Region und den Menschen darin einen Mehrwert zu
-bieten.
+Unsere Wurzeln liegen in einer landwirtschaftlich geprägten Region, eingebettet in die Vororte größerer Städte. Wir sind eng mit dem Land verbunden, schätzen moderne technologische Möglichkeiten und setzen uns dafür ein, unserer Region und den Menschen darin einen Mehrwert zu bieten.
 
 * Ausgangssituation
 
@@ -31,11 +29,11 @@ Bio-Produkte stehen für eine nachhaltige Landwirtschaft, die ohne synthetische 
 
 Auch laut dem Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft sind *86 %* [[https://info.bml.gv.at/themen/lebensmittel/regionale-lebensmittel-initiativen.html][der österreichischen Bevölkerung der Meinung, dass Lebensmittel aus ihrer Region stammen sollten]]. Dieser Wunsch nach Regionalität verstärkte sich besonders in den letzten Jahren. Gerade in Krisenzeiten zeigt sich, dass lokale Lieferketten eine verlässliche und sichere Versorgung ermöglichen. Marktforschungen bestätigen diesen Trend – der Zuspruch für regionale Produkte ist seit der Pandemie deutlich gestiegen.
 
-**Österreicher bevorzugen also Regionalität und Qualität. Der Markt zeigt, dass genau diese Werte gefragt sind.**
+*Österreicher bevorzugen also Regionalität und Qualität. Der Markt zeigt, dass genau diese Werte gefragt sind.*
 
 ** Online-Handel
 
-Der Markt für den Online-Vertrieb von Lebensmitteln ist in Österreich noch jung, aber wachsend. Während der gesamte Online-Handel bereits starke Marktanteile erreicht, liegt der Anteil für Lebensmittel noch vergleichsweise niedrig. Dennoch zeigt die **Entwicklung eine klare Richtung**:
+Der Markt für den Online-Vertrieb von Lebensmitteln ist in Österreich noch jung, aber wachsend. Während der gesamte Online-Handel bereits starke Marktanteile erreicht, liegt der Anteil für Lebensmittel noch vergleichsweise niedrig. Dennoch zeigt die *Entwicklung eine klare Richtung*:
 
 - 2019 lag der Anteil des Online-Lebensmittelhandels in Österreich bei 0,3 %.
 - 2022 stieg er bereits auf 1 %.
@@ -55,22 +53,74 @@ Die meisten *Online-Lebensmittelhändler* arbeiten mit zentralisierten Vertriebs
 
 *86 % der Österreicher wünschen sich echte Regionalität, doch der aktuelle Online-Handel kann diesen Wunsch kaum erfüllen. Hier setzt unser Konzept an: Wir machen den Wochenmarkt mobil und schaffen eine nachhaltige, dezentrale Lieferstruktur – direkt von den Produzenten zu den Kunden.*
 
-* Bioland'o: Regional. Modern. Günstig.
+-----
 
-Wir erfinden das Rad nicht neu -- wir nutzen, was bereits da ist, und
-machen es besser. Unser Ziel ist es, Kunden, Bauern und
-landwirtschaftliche Genossenschaften effektiv miteinander zu verbinden.
+* Konzept
 
-*** Unsere Idee
-Wir bieten den Kunden ein modernes Einkaufserlebnis:
+** Was ist Bioland'o?
 
-- *Unkompliziert bestellen* -- über eine intuitive App
-- *Frische, regionale Produkte* -- aus einem umfangreichen Sortiment
-- *Bequeme Lieferung* -- direkt nach Hause
+Bioland'o ist die moderne Antwort auf eine bewährte Tradition: der Wochenmarkt wird digital, flexibel und bleibt dabei fest in der Region verwurzelt. Unser Ziel ist es, den Zugang zu frischen, hochwertigen Lebensmitteln aus der direkten Umgebung zu erleichtern – für Konsumenten ebenso wie für Landwirte und Lieferdienste. Dabei setzen wir nicht auf leere Marketing-Versprechen, sondern auf echte Regionalität.
 
-Ob frisches Gemüse, Früchte, Eier aus der Region oder Produkte aus dem
-Bioladen -- Kunden können sich individuell ihren Einkaufskorb
-zusammenstellen und den passenden Lieferzeitpunkt wählen.
+Bioland'o positioniert sich als Alternative zum bestehenden Online-Handel für Lebensmittel. Während herkömmliche Online-Supermärkte oft auf zentrale Lager und lange Lieferketten setzen, bringt Bioland'o frische Produkte direkt von regionalen Produzenten zu den Kunden. Das Modell kombiniert die Bequemlichkeit des digitalen Einkaufs mit der Qualität und Frische echter regionaler Produkte. Die Waren stammen direkt von Bauernhöfen aus der Region und werden über bestehende genossenschaftliche Strukturen ausgeliefert.
+
+Diese Art des regionalen Vertriebs hat sich bereits in anderen Bereichen bewährt – ein Beispiel ist NÖM, ein österreichisches Erfolgsmodell, das durch genossenschaftliche Zusammenarbeit groß geworden ist. Während NÖM sich auf Milchprodukte spezialisiert, bietet Bioland'o eine breite Vielfalt an frischen Lebensmitteln – von Gemüse über Backwaren bis hin zu Fleisch direkt vom lokalen Metzger. Dieses Prinzip stärkt nicht nur die Region, sondern schafft auch neue Vertriebsmöglichkeiten für bäuerliche Betriebe.
+
+*** Tradition trifft Moderne: Ein genossenschaftliches Modell mit Franchise-Ansatz
+
+Bioland'o verbindet traditionelle Werte mit modernen Strukturen. Die Plattform folgt dem Gedanken eines genossenschaftlichen Netzwerks, in dem sich Bauern, Metzger und andere regionale Produzenten zusammenschließen, um ihre Produkte gemeinsam effizienter an den Kunden zu bringen. Gleichzeitig übernimmt Bioland'o eine koordinierende Rolle im Sinne eines Franchise-Systems: klare Prozesse, einheitliche Standards und eine professionelle Logistik gewährleisten, dass die Qualität und Frische der Produkte stets gewährleistet bleibt.
+
+So wird der klassische Bauernmarkt nicht ersetzt, sondern erweitert – er bekommt Räder. Anstatt sich nach Markttagen zu richten, können Kunden flexibel bestellen und sich ihre Produkte bequem liefern lassen. Die Vorteile des traditionellen Direktverkaufs bleiben erhalten: Käufer wissen, woher ihre Lebensmittel kommen, und können sich auf die bewährte Qualität ihrer lokalen Anbieter verlassen.
+
+*** Nähe zur Region und persönliche Kundenbindung
+
+Ein wichtiger Aspekt von Bioland'o ist die persönliche Nähe zwischen Produzenten und Kunden. Viele Konsumenten kennen die Bauernhöfe in ihrer Umgebung – sei es durch frühere Einkäufe, durch regionale Veranstaltungen oder einfach durch die Lage innerhalb ihrer Gemeinde. Diese gewachsene Verbindung bleibt bestehen und wird durch Bioland'o gestärkt.
+
+*** Zukunftsperspektive
+
+Bioland'o möchte nicht nur den lokalen Vertrieb stärken, sondern langfristig eine nachhaltige Struktur für den regionalen Lebensmittelhandel schaffen. Die genossenschaftliche Organisation sichert den Produzenten faire Preise und stabile Absatzwege, während die Kunden von höchster Qualität und kurzen Lieferwegen profitieren. Dies ist nicht nur ein Gewinn für die Landwirte, sondern für die gesamte Region – ein Modell, das Tradition und Fortschritt auf ideale Weise verbindet.
+
+** Die Bioland'o App – Einkaufen mit wenigen Klicks
+
+Die Bioland'o App macht den Einkauf regionaler Produkte so einfach wie möglich. Kunden können direkt auf ihrem Smartphone oder Tablet durch das Angebot der Bauern in ihrer Umgebung stöbern. Ein übersichtliches Kachel-Layout sorgt für eine intuitive Bedienung und zeigt auf einen Blick:
+
+- *Produktbild* – Entweder ein von Bioland'o bereitgestelltes symbolisches Bild oder eines, das der Bauer selbst hochgeladen hat.
+- *Anbieter* – Der jeweilige Hof oder Betrieb, der das Produkt anbietet.
+- *Verfügbarkeit* – Ab wann die Ware frühestens geliefert werden kann.
+- *Preis*
+
+Durch einfaches Antippen gelangt der Kunde auf die Produktseite, kann die Menge anpassen und einen passenden Liefertermin auswählen. Sobald ein regionaler Mindesteinkaufswert erreicht ist, kann der Kunde den Warenkorb abschließen und die Bestellung wird über Bioland'o abgewickelt. Die Zahlung erfolgt direkt über die App, und alle weiteren Schritte – von der Abholung beim Bauern bis zur Lieferung – werden von unserem System koordiniert.
+
+Aber wie funktioniert das genau? Im nächsten Abschnitt werfen wir einen Blick darauf, wie die Waren von den Produzenten zum Kunden gelangen.
+
+** Bioland'o für Landwirte – Direktvermarktung leicht gemacht
+
+Österreichische Landwirte haben die Möglichkeit, ihre Produkte direkt ab Hof zu verkaufen. Bioland'o erweitert diese Option und erleichtert es den Bauern, ihre Waren unkompliziert über eine digitale Plattform anzubieten – ohne sich um komplizierte technische Details kümmern zu müssen.
+
+Über die *Bioland'o Business-App* oder die Browser-Variante können Landwirte ihre Produkte schnell und einfach listen:
+
+1. *Produktkategorie wählen* – Der Bauer wählt die passende Produktgruppe aus.
+2. *Produkt hinzufügen* – Menge festlegen, optional ein Bild hochladen oder das von Bioland'o bereitgestellte Symbolbild verwenden.
+3. *Qualitätsmerkmale kennzeichnen* – Falls zutreffend, können Siegel wie „Bio“, „Freilandhaltung“ oder „Handgemacht“ hinzugefügt werden.
+4. *Verfügbarkeit & Preis festlegen* – Der Landwirt gibt an, ab wann das Produkt erhältlich ist und legt den Preis fest. Die Lieferkosten von Bioland'o werden automatisch berechnet und berücksichtigt.
+5. *Verkauf starten* – Mit wenigen Klicks geht das Produkt online und ist für Kunden sichtbar.
+
+Sobald eine Bestellung eingeht, sieht der Bauer einen festgelegten Zeitrahmen, in dem der Lieferdienst die Ware abholt. Es gibt keine individuellen Abholzeiten – sobald ein Produkt verfügbar gemacht wird, verpflichtet sich der Anbieter, es für den Versand bereitzustellen.
+
+*** Transparenz & Präsentation
+
+Jeder Bauernhof erhält eine eigene Profilseite auf Bioland'o, auf der Kunden mehr über den Betrieb erfahren können. Dies ermöglicht eine persönliche Note und hebt die Anbieter voneinander ab. Zwar stehen die Bauern in gewisser Weise im Wettbewerb, doch das war auch zuvor der Fall – Bioland'o schafft vielmehr eine zusätzliche Verkaufsmöglichkeit, die bestehende Strukturen ergänzt, statt sie zu ersetzen.
+
+Die einfache Bedienbarkeit der Plattform stellt sicher, dass auch Landwirte ohne digitale Erfahrung ihre Produkte mühelos online anbieten können. Durch das vorkonfigurierte Layout und die intuitive Benutzeroberfläche wird der gesamte Prozess so leicht wie möglich gestaltet.
+
+** Effiziente Lieferlogistik – Bioland'o bringt regionale Produkte nach Hause
+
+Bioland'o übernimmt die Koordination der Lieferdienste und sorgt für einen reibungslosen Transport der Waren. Die Lieferfahrzeuge sind mit dem Bioland'o-Logo gebrandet, dennoch bleiben die Lieferunternehmen eigenständig und wirtschaften nach ihren eigenen Bedingungen.
+
+Die Fahrer holen die Waren zu festgelegten Zeiten direkt bei den Bauern ab. Je nach Region können Lieferdienste entscheiden, ob sie gut verkaufte Produkte zwischendurch zwischenlagern oder direkt ausfahren. Wer die Lagerung selbst organisiert, kann höhere Gewinne erzielen – wer das Risiko vermeiden möchte, kann auf eine zentrale Bioland'o-Option zurückgreifen.
+
+Für den Kunden gibt es eine Live-Tracking-Funktion. Sobald sich der Lieferdienst auf den Weg macht, erhält der Kunde eine Benachrichtigung mit einer großzügigen Zeitangabe. Durch die geplante Route kann der Kunde stets abschätzen, wann seine Bestellung eintrifft. Die Lieferdienste planen ihre Routen eigenständig und haben Zugriff auf eine Kartenübersicht, um effizient zu arbeiten.
+
+-----
 
 *** Vorteile für Landwirte und Investoren
 - Höhere Sichtbarkeit und mehr Kunden
@@ -145,8 +195,8 @@ Sortiment und moderne Online-Bestellung.
 
 *** Finanzierung
 - Regionale und digitale Förderungen (zB.
-  [[https://www.aws.at/aws-digitalisierung/][aws Digitalisierung]],
-  [[https://www.zukunftsraumland.at/leader][LEADER-Förderung für
+  [][ws Digitalisierung]],
+  [][LEADER-Förderung für
   regionale Entwicklung]])
 - Beteiligung von Lieferdiensten
 - Private Investoren
