@@ -174,33 +174,57 @@ Um Bioland'o in der Region bekannt zu machen und Kunden sowie Landwirte gezielt 
 
 Durch diese Maßnahmen wird sichergestellt, dass Bioland'o schnell eine starke Marktpräsenz aufbauen und langfristig in der Region etabliert werden kann.
 
+* Pilotregion und Skalierungsstrategie
+
+Der Start von Bioland'o erfolgt in der Region Stadt Haag in Niederösterreich. Diese Gegend bietet ideale Bedingungen für das Pilotprojekt: eine ländliche Umgebung mit einer starken landwirtschaftlichen Basis, gleichzeitig aber auch eine Nähe zu Städten wie Amstetten, Steyr und Linz, die als wirtschaftliche Zentren Absatzmöglichkeiten bieten. Diese Stadt-Land-Verteilung schafft eine natürliche Basis für nachhaltiges Wachstum.
+
+Da viele landwirtschaftliche Betriebe bereits an den Stadträndern liegen, profitieren sie von kurzen Transportwegen und direktem Zugang zu einem breiten Kundenstamm. Das Pilotprojekt wird gezielt so angelegt, dass es dynamisch wachsen kann – von Haag ausgehend zunächst in Richtung Amstetten und Steyr, mit einer späteren Expansion nach Linz. Durch diesen schrittweisen Ansatz wird sichergestellt, dass alle Prozesse optimiert werden, bevor weitere Regionen integriert werden.
+
+** Zeitplan für die erste Pilotregion
+
+| *Phase*                              | *Zeitraum*  | *Maßnahmen*                                                    |
+|--------------------------------------+-------------+----------------------------------------------------------------|
+| Analyse & Partnergespräche           | 2 Monate    | Gespräche mit Bauern und Lieferdiensten, Marktanalyse          |
+| App-Entwicklung & Infrastruktur      | 4 Monate    | Technische Umsetzung der Plattform, erste Tests                |
+| Testphase in Stadt Haag              | 3 Monate    | Betrieb mit ersten Landwirten und Kunden, Feedbackschleifen    |
+| Optimierung & Skalierung             | 3 Monate    | Anpassungen auf Basis der Testphase, Erweiterung des Netzwerks |
+| Expansion Richtung Amstetten & Steyr | Ab Monat 12 | Aufnahme weiterer Produzenten und Lieferdienste                |
+
+Durch diese gezielte Pilotphase wird sichergestellt, dass das Konzept praxisnah erprobt wird, bevor es skaliert wird. Dies ermöglicht eine nachhaltige Expansion ohne Überlastung der Infrastruktur oder der beteiligten Akteure. Bioland'o schafft so eine solide Grundlage für langfristiges Wachstum in weiteren Regionen.
+
+** Personalbedarf in der ersten Skalierungsstufe
+
+Für die Umsetzung der ersten Skalierungsstufe und die Pilotphase ist ein schlankes, aber effizientes Team notwendig. Der Personalbedarf orientiert sich an den grundlegenden Anforderungen für den Betrieb der Plattform, die Logistiksteuerung sowie das Marketing und die Kundenbetreuung.
+
+| *Position*         | *Aufgabenbereich*                                        | *Anzahl* |
+|--------------------+----------------------------------------------------------+----------|
+| Projektleitung     | Koordination des Pilotprojekts, strategische Entwicklung |        1 |
+| IT-Entwicklung     | Wartung und Weiterentwicklung der Bioland'o-Plattform    |        2 |
+| Logistikmanagement | Organisation der Lieferprozesse und Routenoptimierung    |        1 |
+| Kundenbetreuung    | Support für Kunden und Landwirte, Auftragsbearbeitung    |        1 |
+| Marketing & PR     | Werbung, Partnerschaften, soziale Medien                 |        1 |
+| Finanzverwaltung   | Buchhaltung, Fördermittelverwaltung, Abrechnung          |        1 |
+
+Insgesamt beginnt Bioland'o mit einem kleinen Kernteam von 6 Mitarbeitern, das flexibel auf die Anforderungen der ersten Skalierungsstufe reagieren kann. Mit fortschreitender Expansion werden gezielt weitere Positionen geschaffen, insbesondere im Bereich der Logistik und IT-Entwicklung, um das Wachstum effizient zu begleiten.
+
+** Technische IT-Infrastruktur und Betriebsmittel
+
+Für einen erfolgreichen Betrieb von Bioland'o ist eine stabile und skalierbare IT-Infrastruktur erforderlich. Dazu gehören:
+
+- *Cloud-Server* für die App und Web-Plattform
+- *Datenbank-Management* für Bestellungen, Kunden- und Produktdaten
+- *Sichere Zahlungsabwicklung* mit gängigen Zahlungsmethoden wie Kreditkarte und Sofortzahlung
+
+Zusätzlich sind essenzielle Betriebsmittel erforderlich, um den Betrieb zu starten:
+
+- *Arbeitsplätze* für Verwaltung, IT-Entwicklung und Kundenservice
+- *Mobile Endgeräte* für Lieferfahrer zur Bestätigung von Abholungen und Lieferungen
+- *Marketingmaterial* für Partnerbetriebe und Kundenkommunikation
+- *Büroausstattung* für den administrativen Betrieb
+
+Diese grundlegende technische Ausstattung bildet das Fundament für eine reibungslose Abwicklung und ermöglicht eine effiziente Skalierung des Projekts.
+
 -----
-
-*** Planung & Umsetzung
-
-**** Projektinitiierung
-- *Gewinnung von Lieferdiensten* zur effizienten Distribution
-- *Aufbau der digitalen Plattform* (Website & App)
-- *Kooperationen mit Bauern und Erzeugern*
-
-*** Zeitplan
-
-| *Meilensteine*                        | *Zeitraum*              | *Beschreibung*                                                              |
-|---------------------------------------+-------------------------+-----------------------------------------------------------------------------|
-| Anforderungsanalyse u. Marktforschung | Februar 2025            | Erfassen der Marktanforderungen und Gespräche mit Lieferdiensten und Bauern |
-| Konzeptentwicklung u. Design          | März 2025               | Entwicklung des Plattformdesigns und Erstellung erster Prototypen           |
-| Technische Umsetzung u. Testphase     | Juni 2025               | Einführung der Plattform in einer ausgewählten Region                       |
-| Erweiterung u. Skalierung             | Juli bis September 2025 | Auseitung auf weitere Regionen und Optimierung des Betriebs                 |
-
-** Ressourcen
-*** Personal
-| *Bereich*                     | *Anzahl Personen*   | *Aufgabenbeschreibung*                    |
-|-------------------------------+---------------------+-------------------------------------------|
-| Web-Entwicklung u- App-Design |                   2 | Entwicklung und Wartung der Plattform     |
-| Programmierer u. IT-Support   |                   2 | Technische Umsetzung und Systembetreuung  |
-| Verwaltung u. Buchhaltung     |                   1 | Finanzen, rechtliche Angelegenheiten      |
-| Logistik und Vertrieb         |                   2 | Koordination der Lieferketten und Partner |
-| Marketing und Kundenservice   |                   1 | Werbung, Kommunikation mit Kunden         |
 
 ** Chancen & Risiken
 *** Chancen
