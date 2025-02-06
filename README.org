@@ -120,21 +120,43 @@ Die Fahrer holen die Waren zu festgelegten Zeiten direkt bei den Bauern ab. Je n
 
 Für den Kunden gibt es eine Live-Tracking-Funktion. Sobald sich der Lieferdienst auf den Weg macht, erhält der Kunde eine Benachrichtigung mit einer großzügigen Zeitangabe. Durch die geplante Route kann der Kunde stets abschätzen, wann seine Bestellung eintrifft. Die Lieferdienste planen ihre Routen eigenständig und haben Zugriff auf eine Kartenübersicht, um effizient zu arbeiten.
 
+* Nachhaltige Finanzierung und wirtschaftliche Perspektiven
+
+Bioland'o setzt auf ein durchdachtes Finanzierungsmodell, das sowohl die langfristige Wirtschaftlichkeit als auch die Unabhängigkeit aller Beteiligten sichert. Die Finanzierung stützt sich auf mehrere Säulen: Transaktionsgebühren, Partnerschaften mit Lieferdiensten und Förderprogramme für digitale und regionale Entwicklung.
+
+Der Betrieb wird über eine geringe Servicegebühr pro Transaktion finanziert. Diese Gebühr deckt die Kosten für die Plattform, die Zahlungsabwicklung und die Logistikkoordination. Bauern und Lieferdienste profitieren dabei von einer fairen und transparenten Kostenstruktur – ohne versteckte Aufschläge oder langfristige Verpflichtungen. Während Bauern den Produktpreis selbst festlegen, sorgt Bioland'o für eine automatische Berechnung der Lieferkosten, die direkt in den Endpreis einfließen.
+
+Die Lieferdienste erhalten ihre Vergütung aus den Liefergebühren, die im Bestellprozess bereits eingepreist sind. Ihnen bleibt dabei wirtschaftliche Freiheit: Wer eine effiziente Routenplanung nutzt oder eigene Lagerflächen zur Zwischenlagerung der Ware bereitstellt, kann höhere Margen erzielen.
+
+Zusätzlich stehen für Bioland'o Fördermittel aus regionalen und digitalen Entwicklungsprogrammen zur Verfügung. Dazu gehören beispielsweise die aws Digitalisierung, die den [[https://www.aws.at/aws-digitalisierung/][Ausbau digitaler Marktplätze]] unterstützt, sowie die [[https://www.zukunftsraumland.at/leader][LEADER-Förderung]] für regionale Entwicklung, die nachhaltige Konzepte für den ländlichen Raum fördert. Diese Förderungen helfen insbesondere in der Anfangsphase, technische Infrastruktur und Marketingmaßnahmen zu finanzieren.
+
+*Bioland'o schafft eine nachhaltige Win-Win-Situation*: Bauern erhalten einen direkten Zugang zu ihren Kunden, Lieferdienste profitieren von planbaren Aufträgen, und Kunden genießen höchste Qualität zu fairen Preisen – mit dem zusätzlichen Vorteil, echte Regionalität zu unterstützen.
+
+** Finanzierungsmodell und Kostenschätzung
+
+Bioland'o finanziert sich durch eine Kombination aus Transaktionsgebühren, Förderungen und wirtschaftlichen Partnerschaften mit Lieferdiensten. Um die wirtschaftliche Tragfähigkeit sicherzustellen, haben wir eine grobe Kostenschätzung vorgenommen, die alle relevanten Posten berücksichtigt.
+
+| *Kostenkategorie*          | *Beschreibung*                            | * Geschätzte Kosten (jährlich)* |
+|----------------------------+-------------------------------------------+---------------------------------|
+| App-Entwicklung            | Entwicklung der mobilen und Web-Anwendung | € 150.000                       |
+| App-Betrieb                | Hosting, Wartung und Updates              | € 30.000                        |
+| Digitale Infrastruktur     | Serverkosten, API-Integrationen           | € 25.000                        |
+| Marketing & PR             | Werbung, Kundenakquise, Social Media      | € 40.000                        |
+| Bürokosten                 | Miete, Strom, Ausstattung                 | € 20.000                        |
+| Buchhaltung & Verwaltung   | Steuerliche & administrative Aufgaben     | € 15.000                        |
+| Lieferlogistik-Integration | Software für Lieferplanung & Tracking     | € 35.000                        |
+| Sonstige Kosten            | Lagerkapazitäten, Notfallreserven         | € 20.000                        |
+|----------------------------+-------------------------------------------+---------------------------------|
+| Gesamtkosten pro Jahr      |                                           | € 335.000                       |
+
+Zusätzlich stehen Fördermittel zur Verfügung, um einen Teil der Anfangsinvestition abzudecken. Dazu gehören:
+
+- [[https://www.aws.at/aws-digitalisierung/][aws Digitalisierung]] – Unterstützung für den Aufbau digitaler Plattformen.
+- [[https://www.zukunftsraumland.at/themen/leader/][LEADER-Förderung]] – Förderung für nachhaltige regionale Entwicklungsprojekte.
+
+Durch eine nachhaltige Finanzierung und wirtschaftliche Planung stellt Bioland'o sicher, dass Landwirte, Lieferdienste und Kunden langfristig von der Plattform profitieren können.
+
 -----
-
-*** Vorteile für Landwirte und Investoren
-- Höhere Sichtbarkeit und mehr Kunden
-- Direkter Vertrieb ohne zusätzlichen Aufwand
-- Nutzung bestehender regionaler Lieferdienste
-- Skalierbares Modell mit Franchise-Ansatz, ideal für Investoren
-
-*** Unser Konzept
-Die Bioland'o-App bildet das Herzstück des Konzepts, indem sie Bauern,
-Lieferdienste und Kunden effizient miteinander vernetzt. Der
-Lieferdienst übernimmt die Logistik im Franchise-Modell, wodurch
-Investoren eine nachhaltige und wachstumsfähige Geschäftsstruktur
-vorfinden. Dies minimiert das wirtschaftliche Risiko und ermöglicht eine
-skalierbare Expansion in weitere Regionen.
 
 ** Marktpräsenz & Marketing
 Wir setzen auf bewährte Marketingstrategien, um Bioland'o in der Region
@@ -192,14 +214,6 @@ Sortiment und moderne Online-Bestellung.
 | Verwaltung u. Buchhaltung     |                   1 | Finanzen, rechtliche Angelegenheiten      |
 | Logistik und Vertrieb         |                   2 | Koordination der Lieferketten und Partner |
 | Marketing und Kundenservice   |                   1 | Werbung, Kommunikation mit Kunden         |
-
-*** Finanzierung
-- Regionale und digitale Förderungen (zB.
-  [][ws Digitalisierung]],
-  [][LEADER-Förderung für
-  regionale Entwicklung]])
-- Beteiligung von Lieferdiensten
-- Private Investoren
 
 ** Chancen & Risiken
 *** Chancen
