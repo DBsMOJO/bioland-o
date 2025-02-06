@@ -136,7 +136,7 @@ Zusätzlich stehen für Bioland'o Fördermittel aus regionalen und digitalen Ent
 
 Bioland'o finanziert sich durch eine Kombination aus Transaktionsgebühren, Förderungen und wirtschaftlichen Partnerschaften mit Lieferdiensten. Um die wirtschaftliche Tragfähigkeit sicherzustellen, haben wir eine grobe Kostenschätzung vorgenommen, die alle relevanten Posten berücksichtigt.
 
-| *Kostenkategorie*          | *Beschreibung*                            | * Geschätzte Kosten (jährlich)* |
+| *Kostenkategorie*          | *Beschreibung*                            | *Geschätzte Kosten (jährlich)*  |
 |----------------------------+-------------------------------------------+---------------------------------|
 | App-Entwicklung            | Entwicklung der mobilen und Web-Anwendung | € 150.000                       |
 | App-Betrieb                | Hosting, Wartung und Updates              | € 30.000                        |
@@ -156,42 +156,29 @@ Zusätzlich stehen Fördermittel zur Verfügung, um einen Teil der Anfangsinvest
 
 Durch eine nachhaltige Finanzierung und wirtschaftliche Planung stellt Bioland'o sicher, dass Landwirte, Lieferdienste und Kunden langfristig von der Plattform profitieren können.
 
+* Marktanalyse und Wettbewerbsvergleich
+
+Während Anbieter wie Gurkerl.at ein durchdachtes System für den städtischen Raum entwickelt haben, ist ihr Modell stark auf Wien und dessen Ballungsgebiete beschränkt. Bioland'o verfolgt hingegen einen anderen Ansatz: Durch die Nutzung bestehender genossenschaftlicher Strukturen können wir ein System bieten, das direkt mit den Bauern zusammenarbeitet und eine echte regionale Vermarktung ermöglicht. Die Bauern behalten die Kontrolle über ihre Produkte, während Bioland'o als Vermittler agiert und den gesamten Vertriebsprozess erleichtert.
+
+Klassische Online-Lebensmittelhändler wie Billa Online, Hofer Online oder Amazon haben den Trend zur Regionalität erkannt, können ihn jedoch kaum umsetzen. Ihre Lieferketten sind zentralisiert, und obwohl sie mit regionalen Produkten werben, handelt es sich oft nur um eine regionale Marke ohne tatsächliche Nähe zum Produzenten. Bioland'o hebt sich hier klar ab, indem es ausschließlich echte regionale Waren vertreibt und kurze Transportwege garantiert.
+
+** Werbung
+
+Um Bioland'o in der Region bekannt zu machen und Kunden sowie Landwirte gezielt zu erreichen, setzen wir auf eine Mischung aus klassischen und digitalen Marketingmaßnahmen. Neben traditionellen Werbemitteln liegt der Fokus auf der direkten Ansprache von Konsumenten und Produzenten.
+
+- Unterstützung durch Gemeinde- und Regionalzeitungen – Regionale Medien berichten oft über nachhaltige Projekte und bieten eine gute Plattform für Bekanntmachung.
+- Soziale Medien & Facebook – Direkte Interaktion mit Kunden, gezielte Werbung und Community-Bildung.
+- Präsenz an lokalen Bauernmärkten – Persönlicher Kontakt mit potenziellen Kunden und Landwirten, um das Konzept erlebbar zu machen.
+- Werbepartnerschaften mit Bioläden – Zusammenarbeit mit bestehenden regionalen Geschäften, die bereits eine umweltbewusste Kundschaft haben.
+- Mundpropaganda & gezielte Partnerschaften – Zusammenarbeit mit lokalen Initiativen, um das Vertrauen in die Plattform zu stärken und organisches Wachstum zu fördern.
+
+Durch diese Maßnahmen wird sichergestellt, dass Bioland'o schnell eine starke Marktpräsenz aufbauen und langfristig in der Region etabliert werden kann.
+
 -----
 
-** Marktpräsenz & Marketing
-Wir setzen auf bewährte Marketingstrategien, um Bioland'o in der Region
-zu etablieren:
+*** Planung & Umsetzung
 
-- *Unterstützung durch Gemeinde- und Regionalzeitungen*
-- *Soziale Medien & Facebook*
-- *Präsenz an lokalen Bauernmärkten*
-- *Werbepartnerschaften mit Bioläden*
-- *Mundpropaganda & gezielte Partnerschaften*
-
-** Planung & Umsetzung
-*** Marktforschung
-Der Wunsch nach regionalen Produkten ist deutlich vorhanden, und viele
-Konsumenten suchen nach Möglichkeiten, diese einfacher zu beziehen.
-Gespräche mit genossenschaftlichen Lieferdiensten zeigen großes
-Interesse an neuen Vertriebswegen. Landwirte erhalten oft nur einen
-Bruchteil des Endpreises für ihre Produkte, und eine zusätzliche
-Absatzmöglichkeit über Bioland'o könnte ihnen wirtschaftlich
-zugutekommen. Unser Konzept trifft daher nicht nur auf Kundennachfrage,
-sondern bietet auch Landwirten eine faire Möglichkeit, ihre Produkte
-gewinnbringender zu verkaufen.
-
-*** Wettbewerb
-Unser Konzept ist einzigartig in der Region. Konkurrenz gibt es primär
-durch:
-
-- *Biohof.at Biokiste*, die jedoch nur eigene Produkte vertreibt
-- *Supermarkt-Lieferdienste*, die ein geringeres Angebot an regionalen
-  Produkten haben
-
-Bioland'o verbindet die Stärken beider Welten: breites regionales
-Sortiment und moderne Online-Bestellung.
-
-*** Projektinitiierung
+**** Projektinitiierung
 - *Gewinnung von Lieferdiensten* zur effizienten Distribution
 - *Aufbau der digitalen Plattform* (Website & App)
 - *Kooperationen mit Bauern und Erzeugern*
